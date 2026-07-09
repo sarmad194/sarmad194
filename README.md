@@ -58,7 +58,7 @@ Agentic AI & Multi-Agent Systems · LLMs (RAG, fine-tuning, deployment) · Compu
 - PhD Software Engineering (AI), Beihang University — Best Academic Award, 1st Position (2025)
 - MSc Computer Science, Coventry University, UK
 - 11 years university teaching · 80+ supervised research projects
-- Founder, IEEE & ACM university student chapters · Founding Chair of an IEEE-indexed international computing conference
+- Founder, IEEE & ACM university student chapters (MAJU Chapters)· Founding Chair of an IEEE-indexed international computing conference
 - Member: IEEE · ACM · APM (Full Member)
 
 ## 📈 The Idea
